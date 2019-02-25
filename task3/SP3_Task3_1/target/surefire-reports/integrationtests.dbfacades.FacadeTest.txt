@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: integrationtests.dbfacades.FacadeTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.073 sec
